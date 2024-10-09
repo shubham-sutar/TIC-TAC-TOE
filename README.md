@@ -23,13 +23,13 @@ npm start
 
 Open your browser and visit http://localhost:3000 to play the game.
 
-## Technologies Used
+## Technologies Used :
 1. React
 2. JavaScript
 3. HTML
 4. CSS
 
-## Game Rules
+## Game Rules :
 👉 Two players take turns marking cells in a 3x3 grid.
 
 👉 The first player marks cells with "X", and the second player marks cells with "O".
@@ -43,13 +43,13 @@ Open your browser and visit http://localhost:3000 to play the game.
 
 
 
-## Contributing
+## Contributing :
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
+## License :
 This project is licensed under the MIT License.
 
-## Contact
+## Contact  ;
 For any inquiries or suggestions, feel free to reach out to pearsparas@gmail.com.
 
 Remember to replace `iamparas0` and `TIC-TAC-TOE` with your actual GitHub username and repository name, respectively, in the README file.
