@@ -38,7 +38,7 @@ Open your browser and visit http://localhost:3000 to play the game.
 
 👉 If all cells are filled and no player has three marks in a row, the game is a draw.
 
-## Screen Shots 
+## Screen Shots :
 ![Screenshot 2024-10-05 234705](https://github.com/user-attachments/assets/34413bf5-a464-46b6-a7c7-fcf39baaa479)
 
 
